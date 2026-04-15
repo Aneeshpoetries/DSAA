@@ -1,1 +1,1 @@
-This repo contains DSA
+This repository contains DSA
