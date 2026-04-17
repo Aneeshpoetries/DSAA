@@ -1,1 +1,1 @@
-This repository contains DSA practice
+This repository contains DSA practice questions
